@@ -1,4 +1,4 @@
-package com.myproj.springbootfirst;
+package com.myproj.springbootfirst.model;
 
 public interface Computer {
 
